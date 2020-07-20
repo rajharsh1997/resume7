@@ -2,7 +2,7 @@
   "main": {
     "name":"Harsh",
     "occupation":"Front End Developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"Description",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Hi Here is where you should write your message to readers to have them get in contact with you.",
@@ -50,7 +50,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"SCE",
@@ -70,7 +70,7 @@
         "company":"TCS",
         "title":"System Engineer",
         "years":"July 2019 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with."
+        "description":"Describe work, special projects, notable achievements."
       }
     ],
     "skills":[
@@ -111,7 +111,7 @@
         "title":"Socialize",
         "category":"A safe communication portal for children",
         "image":"socialize.jpg",
-        "url":"https://github.com/rajharsh1997/"
+        "url":"https://github.com/rajharsh1997/Socialize1"
         
       },
       {
